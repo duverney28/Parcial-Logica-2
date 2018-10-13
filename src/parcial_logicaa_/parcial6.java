@@ -16,7 +16,7 @@ public class parcial6 {
      */
     public static void main(String[] args) {
         
-         // parcial punto 6
+         // parcial punto 6 que letra del abecedario pertenece un numero entero
         String abc[]= {"A","B","C","D","E","F","G","H","I","J","K","L","M","N","O","P","Q","R","S","T","U","V","W","X","Y","Z"}; //declaramos nuestro string con nuestro abecedario
         Scanner sc = new Scanner(System.in); // coloco esto para que me lea el util.scanner 
         System.out.println("digite un numero"); // muestro por pantalla un mensaje para recibir un numero entero por teclado
