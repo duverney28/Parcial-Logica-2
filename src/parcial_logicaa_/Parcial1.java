@@ -15,7 +15,7 @@ public class Parcial1 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // parcial punto 1, logica de programación
+        // parcial punto 1, logica de programación suma de numero enteros
         
         Scanner sc = new Scanner(System.in); // coloco esto para que me lea el util.scanner
         try{ // coloco el try para asegurarme que el numero que me escriban por teclado sea entero
