@@ -16,7 +16,7 @@ public class Parcial4 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-         // parcial punto 4
+         // parcial punto 4, logica de programación vector de 10 numeros enteros
     
             int [] espacio  = {10,5,1,20,3,6,90,6,12,10};
             int menornum = 0 ;  //definimos las variables tipo entero y la matriz con los numeros que queremos ordenar.
