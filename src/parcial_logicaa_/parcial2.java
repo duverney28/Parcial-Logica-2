@@ -25,7 +25,7 @@ public class parcial2
           for (h=0;h<=f;h++) // este ciclo lo ponemos, para que de las vueltas por cada columna
           {
            
-             System.out.print("+"); // cada vez que pasa el ciclo anterior, imprimira una cruz.
+             System.out.print("*"); // cada vez que pasa el ciclo anterior, imprimirá una aterisco.
           
           }
           System.out.println(" "); // le hago para que me de un espacio y haga un salto de linea

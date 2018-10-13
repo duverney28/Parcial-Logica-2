@@ -12,7 +12,7 @@ package parcial_logicaa_;
 public class parcial7 {
 
    
-     // parcial punto 7
+     // parcial punto 7 multiplicacion de matrices 3x3
            
     
     public static boolean multiplicacionmatrices(int [][] m1,int [][] m2, int [][]m3){ // me creo mi primera funcion booleana que tenga los tres parametros de mis tres matrice
