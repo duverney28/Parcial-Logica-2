@@ -18,7 +18,7 @@ public class parcial3 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-         // parcial punto 3
+         // parcial punto 3 cuento 
        
      int edad;
      String nombrePersona,color,nombreCosa; // Definimos las variables tipo entero y tipo string
