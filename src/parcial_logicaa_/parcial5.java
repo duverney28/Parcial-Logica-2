@@ -15,7 +15,7 @@ public class parcial5 {
 
     /**
      * @param args the command line arguments
-     */ // // parcial punto 5
+     */ // // parcial punto 5 matriz de 10x10
     public static void main(String[] args) {
         Random r = new Random(); // declaro mi variable random
         int [][] duv= new int[10][10]; // declaro mi matriz 
